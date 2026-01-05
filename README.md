@@ -1,1 +1,0 @@
-# bird_game_script_farm_money
